@@ -1,1 +1,0 @@
-# linguagem_programacao_C_george
